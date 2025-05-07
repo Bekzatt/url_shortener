@@ -1,0 +1,2 @@
+DATABASE_URL=postgresql+asyncpg://postgres:postgres@db:5432/shortener
+BASE_URL=http://localhost:8080
